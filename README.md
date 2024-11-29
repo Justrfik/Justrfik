@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Justrfik
-- 👀 I’m Gamer heeeeeeee
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Program
+- 👋 Hi,
 - 📫 instagram : justrfik
+- X : pumpkinzdstore
 
 <!---
 Justrfik/Justrfik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
